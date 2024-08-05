@@ -1,5 +1,7 @@
 # P-L-report
 
+I worked on this project by following the Codebasics Advanced Excel, Mother of Business Intelligence. 
+
 AtliQ HardWare Excel Analytics Report
 Sales Report :
 Project objective:
